@@ -6,5 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-actix-web = { version = "4.0.0-rc.2", default-features = false }
-futures-util = { version = "0.3.19", default-features = false }
+actix-web = { version = "4.2.1", default-features = false }
+futures-util = { version = "0.3.24", default-features = false }
